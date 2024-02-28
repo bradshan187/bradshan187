@@ -2,8 +2,9 @@ Hi there! My name is Brad Shannon and I am a software developer. I am passionate
 
 ## Skills
 
-- Programming languages: Python
-- Other technologies: Git
+- Programming languages: Python, C#, Java, JavaScript
+- Other technologies: Git, Mercurial
+- Frameworks: Django, Spring, .NET
 
 ## Experience
 
